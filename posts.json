@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "welcome",
+    "date": "2026-11-24",
+    "title": {
+      "en": "Welcome to my notes",
+      "ru": "Добро пожаловать в мои заметки"
+    },
+    "summary": {
+      "en": "What I write about here and how the notes are organized.",
+      "ru": "О чём я пишу здесь и как устроены заметки."
+    }
+  }
+]
